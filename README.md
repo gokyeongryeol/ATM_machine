@@ -16,7 +16,7 @@ The whole process goes as follows:
 
 ## Quick run
 
-The easiest way to run the code is to run it in the browser on [Colab](https://colab.research.google.com/drive/1-eud4LRyPo5JpkBnn33OvXAb_ZuJag5Q?usp=sharing).
+The easiest way to run the code is to run it in the browser on [Colab](https://colab.research.google.com/drive/1-eud4LRyPo5JpkBnn33OvXAb_ZuJag5Q?usp=sharing). Please refer to the actual running example through the notebook's outputs.
 
 Colaboratory is a free Jupyter notebook environment provided by Google that requires no setup and runs entirely in the cloud. The hosted runtime already includes python 3.7.13.
 
